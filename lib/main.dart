@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           title : Text('Project Hello World'),
         ),
         body: Center(
-          child: Text('Hello World'),
+          child: Text('HelloWorld'),
         ),
       )
     );
